@@ -1,0 +1,26 @@
+.style {
+    animation: fade-in 1s;
+  }
+  
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 100;
+    }
+  }
+
+
+  .welcome {
+    animation: fade-out 1s;
+  }
+  
+  @keyframes fade-out {
+    from {
+      opacity: 100;
+    }
+    to {
+      opacity: 0;
+    }
+  }
