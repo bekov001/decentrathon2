@@ -1,0 +1,49 @@
+.index {
+    font-family: inherit;
+}
+
+.container {
+
+}
+
+
+/* .ccc {
+    position: relative;
+} */
+
+
+.green {
+    color: yellow;
+}
+
+
+.current {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+      
+}
+
+.green {
+    height: 55px;
+    width: 55px;
+    background-color: #00ff0d;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.not_avalaible {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}

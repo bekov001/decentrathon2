@@ -32,9 +32,7 @@ function ChooseMyLevel({next, fade}: IWelcome) {
         <button className={styles.level_button} onClick={() => next()}>
           Mom
         </button>
-        <button className={styles.level_button} onClick={() => next()}>
-          Могу подробно обсудить большинство тем
-        </button>
+    
         </div>
     </div>
   )

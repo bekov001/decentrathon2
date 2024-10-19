@@ -1,5 +1,5 @@
 .style {
-    animation: fade-in 1s;
+    animation: fade-in 0.7s;
   }
   
   @keyframes fade-in {
@@ -13,7 +13,7 @@
 
 
   .welcome {
-    animation: fade-out 1s;
+    animation: fade-out 0.7s;
   }
   
   @keyframes fade-out {
